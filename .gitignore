@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Logs
+*.log
